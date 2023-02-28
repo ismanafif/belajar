@@ -1,4 +1,11 @@
+belajar python dasar bahasa indonesia
+(https://belajarpython.com/)
+
 30 hari belajar python
-https://teclado.com/30-days-of-python/python-30-day-21-multiple-files/
+[unduh](https://teclado.com/30-days-of-python/python-30-day-21-multiple-files/)
 
 praktik dengan kaggle
+[kaggle](www.kaggle.com)
+
+cetak cheat sheet dari data camp
+[cheatsheet](https://www.datacamp.com/cheat-sheet)
