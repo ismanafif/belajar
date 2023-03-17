@@ -1,0 +1,48 @@
+
+Basic
+  Variable
+  Condition
+    (boolean)
+  Chained/Multiple Condition
+  Operators
+  Control Flow
+    (If/Else)
+  Loops and Iterable
+    (For, While)
+  Basic Data Structure
+    (list, set, dict, string, boolean, int, float)
+  
+  Function
+  Mutable and Immutable Data Types
+  Common Method
+  File I/O
+
+Intermediette
+  Object Oriented Programming
+    Class, Object
+  Data Structure
+  Comprehensions
+    [list, dict]
+  Lambda Function
+  Collection Module
+    Map, Filter
+  *args & *kwargs
+  Inheritance
+  Advanced Class Behaviour
+    Dunder Methods
+  PIP Python Package Manager
+  Environments
+  Python Module
+  Async I/O
+  
+Advanced
+  Decorators
+  Generators
+  Context Managers
+  Metaclasses
+  Concurrency
+  Parallesism
+  Testing
+  Packages
+  Cython
+  
